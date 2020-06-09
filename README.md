@@ -23,9 +23,11 @@ pip install selenium
 
 Then you need to change the seat numbers 
 ```
-numbers=[7119985,7120017,7120018,7120072,7120175,7120199,7120220,7120289,7120337,7120355,7120404,7120429,7120435,7120440]
+numbers=[711998##,71###17,71####8,7123##2,7####75,####199,73####0,7###28#,7####37,73####5,7####04,73####9,7######,#####40]
 subjects = ['Gujarati FL', 'Social Science', 'Science', 'Mathematics', 'English SL', 'Sanskrit SL']
 ```
 
-Background -
+Hope it may help all the schools that waste time visiting these sites and manually entering results for each student and also there may be some mistakes while entering data. This does 250ms for one result and hence near to 1200 students result may be there in the time equivalent to time taken by teacher in entering one data.
+
+Respect and Gratitude to all the teachers and hence this is something to give back for the years you have generoulsy tought us !!
 
