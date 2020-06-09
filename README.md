@@ -19,6 +19,11 @@ pip install selenium
 
 - Now you are done for the setup part , so just keep ready the list of seat numbers that you may need
 
+Then just clone this by entering the following commands in command prompt
+```
+git-clone
+```
+
 [![](http://img.youtube.com/vi/I5SSQqDlX4M/0.jpg)](http://www.youtube.com/watch?v=I5SSQqDlX4M "Example of the Tool")
 
 Then you need to change the seat numbers in the ```__main__()``` function
