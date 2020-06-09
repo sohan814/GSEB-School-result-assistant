@@ -19,4 +19,13 @@ pip install selenium
 
 - Now you are done for the setup part , so just keep ready the list of seat numbers that you may need
 
+[![](http://img.youtube.com/vi/I5SSQqDlX4M/0.jpg)](http://www.youtube.com/watch?v=I5SSQqDlX4M "Example of the Tool")
+
+Then you need to change the seat numbers 
+```
+numbers=[7119985,7120017,7120018,7120072,7120175,7120199,7120220,7120289,7120337,7120355,7120404,7120429,7120435,7120440]
+subjects = ['Gujarati FL', 'Social Science', 'Science', 'Mathematics', 'English SL', 'Sanskrit SL']
+```
+
 Background -
+
