@@ -21,7 +21,9 @@ pip install selenium
 
 Then just clone this by entering the following commands in command prompt
 ```
-git-clone
+git clone https://github.com/bhargavyagnik/GSEB-School-result-assistant.git
+cd GSEB-School-result-assistant
+python main.py
 ```
 
 [![](http://img.youtube.com/vi/I5SSQqDlX4M/0.jpg)](http://www.youtube.com/watch?v=I5SSQqDlX4M "Example of the Tool")
