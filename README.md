@@ -24,10 +24,12 @@ pip install selenium
 Then you need to change the seat numbers in the ```__main__()``` function
 ```
 numbers=[roll1,roll2...] 
-subjects = ['Gujarati FL', 'Social Science', 'Science', 'Mathematics', 'English SL', 'Sanskrit SL']
+subjects = ['Language1', 'Language2', 'Language3'...]
 ```
 
 Hope it may help all the schools that waste time visiting these sites and manually entering results for each student and also there may be some mistakes while entering data. This does 250ms for one result and hence near to 1200 students result may be there in the time equivalent to time taken by teacher in entering one data.
 
 Respect and Gratitude to all the teachers and hence this is something to give back for the years you have generoulsy tought us !!
+
+Also the Smart Mr. Comparision may use it to get result of all their friends in a second!!
 
