@@ -7,7 +7,7 @@ So there are 3 things you need to get results of your school students in a matte
 - **Python** installed in you PC for that you can go to [Python Download](https://www.python.org/downloads/) I recommend version 3.6 or 3.7 . Check if pip is working in cmd or watch this tutorial at [Pip installation Tutorial](https://www.youtube.com/watch?v=AVCcFyYynQY)
 
 Then you need to enter the following commands at -
-```
+``` 
 pip install pandas
 pip install beautifulsoup4
 pip install html-table-extractor
@@ -21,9 +21,9 @@ pip install selenium
 
 [![](http://img.youtube.com/vi/I5SSQqDlX4M/0.jpg)](http://www.youtube.com/watch?v=I5SSQqDlX4M "Example of the Tool")
 
-Then you need to change the seat numbers 
+Then you need to change the seat numbers in the ```__main__()``` function
 ```
-numbers=[711998##,71###17,71####8,7123##2,7####75,####199,73####0,7###28#,7####37,73####5,7####04,73####9,7######,#####40]
+numbers=[roll1,roll2...] 
 subjects = ['Gujarati FL', 'Social Science', 'Science', 'Mathematics', 'English SL', 'Sanskrit SL']
 ```
 
