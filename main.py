@@ -157,7 +157,7 @@ if(__name__=='__main__'):
     #     276355
     # ]
     #
-    # subjects_12 = ['Gujarati FL','English','Sanskrit','Philosophy','Sociology','Psychology','Geography']
+    # subjects_12 = ['Gujarati FL','English','Sanskrit','Philosophy','Sociology','Psychology','Geography','samajik vigyan']
 
     tenth = [7118781
         , 7118467
